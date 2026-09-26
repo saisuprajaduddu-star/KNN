@@ -1,2 +1,2 @@
 # KNN
-The project is about KNN classificatio
+The project is about KNN classification
